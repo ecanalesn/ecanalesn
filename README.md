@@ -16,8 +16,7 @@
 #### Sistemas de Gestión de Bases de Datos:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Despliegue:
-![Netlify](https://img.shields.io/badge/Netlify-48C1B2?style=for-the-badge&logo=netlify&logoColor=white)
+#### Servidores:
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 #### Sistemas de control de versiones:
