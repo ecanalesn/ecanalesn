@@ -18,6 +18,7 @@
 
 #### Despliegue:
 ![Netlify](https://img.shields.io/badge/Netlify-48C1B2?style=for-the-badge&logo=netlify&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 #### Sistemas de control de versiones:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
