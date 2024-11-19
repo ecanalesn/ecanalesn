@@ -26,5 +26,5 @@
 <br><br>
 <h2>Mi Portfolio aquí 👇 </h2>
 
-[website](https://portfolio-estefaniacanales.netlify.app/)
+[Portfolio Estefania](https://portfolio-estefaniacanales.netlify.app/)
  
