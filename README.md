@@ -1,4 +1,4 @@
-### <h1 align= "center"><b>¡Hola, soy Estefanía! Desarrollador Junior en Formación 🚀
+### <h1 align= "center"><b>¡Hola, soy Estefanía! Desarrollador Web Junior 🚀
 
 ### Tengo conocimientos en:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,5 +26,5 @@
 <br><br>
 <h2>Mi Portfolio aquí 👇 </h2>
 
-![website](https://portfolio-estefaniacanales.netlify.app/)
+[website](https://portfolio-estefaniacanales.netlify.app/)
  
