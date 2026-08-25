@@ -61,10 +61,10 @@ Full Stack Developer con formación en **Desarrollo de Aplicaciones Web** y un r
 
 ---
 
-### 📊 Analítica, SEO y Diseño
+### 📊 Analítica y SEO 
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Google_Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 
 SEO on-page (metadatos, datos estructurados JSON-LD), Consent Mode v2, medición de eventos de negocio.
 
